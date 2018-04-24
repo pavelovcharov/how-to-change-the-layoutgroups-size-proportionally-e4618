@@ -13,7 +13,7 @@
                 <DXSample:ExtraLayoutGroup Orientation="Vertical" LayoutItemSize="2*">
                     <DXSample:ExtraLayoutGroup Header="LayoutGroup" View="Tabs" LayoutItemSize="1*"/>
                     <DXSample:ExtraLayoutGroup Header="LayoutGroup" View="GroupBox" LayoutItemSize="30"/>
-                    <DXSample:ExtraLayoutGroup Header="LayoutGroup" View="Tabs" LayoutItemSize="4*"/>
+                    <DXSample:ExtraLayoutGroup Header="LayoutGroup" View="GroupBox" LayoutItemSize="4*"/>
                 </DXSample:ExtraLayoutGroup>
                 <DXSample:ExtraLayoutGroup Orientation="Horizontal" LayoutItemSize="1*">
                     <DXSample:ExtraLayoutGroup Header="LayoutGroup" View="Tabs" Orientation="Vertical">
